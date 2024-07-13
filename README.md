@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Vault<br>🌱 I’m currently learning Java, Python, etc.<br>📫 How to reach me dizayn3r@gmail.com
+🔭 I’m currently working on Vault<br>🌱 I’m currently learning Golang, Objective C, etc.<br>📫 How to reach me dizayn3r@gmail.com
 
 
 # 💻 Tech Stack:
